@@ -1,8 +1,10 @@
 # Quantum_Circuit_Cutting
-Quantum Circuit Cutting Group Project 
-Below is a description of the project, our demonstration process, and the an explantation of the results of the project. 
+# Quantum Circuit Cutting Group Project 
 
-What is Quantum Circuit Cutting? 
+# Below is a description of the project, our demonstration process, and the an explantation of the results of the project. 
+
+# What is Quantum Circuit Cutting? 
+
 Quantum circuit cutting is the process of taking a larger quantum circuit and “cutting” it into smaller subcircuits.
 Once these smaller subcircuits have been created, they can then be executed either independently on the same quantum device, or independently across multiple quantum devices.
 Once executed, the result of all subcircuits can then be recombined to obtain the original result of the larger quantum circuit  (Using some form of post processing).
