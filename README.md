@@ -1,7 +1,7 @@
 
 # Quantum Circuit Cutting Group Project 
 
-Below is a description of the project, our demonstration process, and the an explantation of the results of the project. 
+Below is a description of the project, our demonstration process, and the an explantation of the results of the project. You can find our qiskit code in the .ipynb file. We used Google Collaborate to write and run the code on both a simulator and a real IMB quantum computer. 
 
 What is Quantum Circuit Cutting? 
 
